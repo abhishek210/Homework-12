@@ -1,2 +1,2 @@
 # Host-link
-https://homework-12-fs-04.vercel.app/
+https://fantastic-manatee-2d2c69.netlify.app/
